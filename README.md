@@ -10,6 +10,8 @@ git submodule update --init --recursive
 
 | ldn_mitm version | Atmosphère version |
 | :--------------: | :----------------: |
+| [1.7.1](https://github.com/raytan1807/ldn_mitm/releases/tag/v1.7.1)            | [0.16.2](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.16.2)               |
+| [1.7.0](https://github.com/spacemeowx2/ldn_mitm/releases/tag/v1.7.0)            | [0.16.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.16.1)               |
 | [1.6.0](https://github.com/spacemeowx2/ldn_mitm/releases/tag/v1.6.0)            | [0.15.0](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.15.0)/[0.14.4](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.14.4)   |
 | [1.5.0](https://github.com/spacemeowx2/ldn_mitm/releases/tag/v1.5.0)            | [0.14.0](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.14.0)/[0.14.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.14.1)        |
 | [1.4.0](https://github.com/spacemeowx2/ldn_mitm/releases/tag/v1.4.0)            | [0.13](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/0.13.0)               |
